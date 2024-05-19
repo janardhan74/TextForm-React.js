@@ -1,0 +1,3 @@
+onClick={props.changeColorPlatte(props.mode.NavbarBackground==="dark"?"#2e0101":"#fa6161")}
+onClick={props.changeColorPlatte(props.mode.NavbarBackground==="dark"?"#080430":"#758cfa")}
+onClick={props.changeColorPlatte(props.mode.NavbarBackground==="dark"?"#031f02":"#64fa61")}
